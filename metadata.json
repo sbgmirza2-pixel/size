@@ -1,0 +1,6 @@
+{
+  "name": "Size It Up",
+  "description": "Test your real-world scale intuition in Size It Up — compare silhouettes, beat daily streaks, climb the global leaderboard, and challenge friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

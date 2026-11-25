@@ -1,0 +1,90 @@
+[
+  {
+    "id": "seed-w1",
+    "playerName": "CosmicScale",
+    "score": 942,
+    "mode": "weekly-1k",
+    "difficulty": "Hard",
+    "category": "Space",
+    "accuracy": 94,
+    "streak": 18,
+    "createdAt": "2026-11-25T03:50:53.743Z"
+  },
+  {
+    "id": "seed-w2",
+    "playerName": "OrbitVibe",
+    "score": 886,
+    "mode": "weekly-1k",
+    "difficulty": "Medium",
+    "category": "Space",
+    "accuracy": 89,
+    "streak": 11,
+    "createdAt": "2026-11-25T02:45:53.743Z"
+  },
+  {
+    "id": "seed-1",
+    "playerName": "NovaScale",
+    "score": 488,
+    "mode": "size-it-up",
+    "difficulty": "Hard",
+    "category": "Daily Mix",
+    "accuracy": 97,
+    "streak": 14,
+    "createdAt": "2026-11-25T03:05:53.743Z"
+  },
+  {
+    "id": "seed-2",
+    "playerName": "BlueOrbit",
+    "score": 472,
+    "mode": "size-it-up",
+    "difficulty": "Medium",
+    "category": "Space",
+    "accuracy": 94,
+    "streak": 9,
+    "createdAt": "2026-11-25T02:15:53.743Z"
+  },
+  {
+    "id": "seed-3",
+    "playerName": "PixelRuler",
+    "score": 461,
+    "mode": "size-it-up",
+    "difficulty": "Hard",
+    "category": "Buildings",
+    "accuracy": 92,
+    "streak": 7,
+    "createdAt": "2026-11-25T01:05:53.743Z"
+  },
+  {
+    "id": "seed-4",
+    "playerName": "ZaraVibe",
+    "score": 446,
+    "mode": "size-it-up",
+    "difficulty": "Medium",
+    "category": "Animals",
+    "accuracy": 89,
+    "streak": 5,
+    "createdAt": "2026-11-24T23:15:53.743Z"
+  },
+  {
+    "id": "seed-5",
+    "playerName": "TurboGauge",
+    "score": 430,
+    "mode": "rapid-fire",
+    "difficulty": "Hard",
+    "category": "Cars",
+    "accuracy": 88,
+    "streak": 6,
+    "createdAt": "2026-11-24T21:45:53.743Z"
+  },
+  {
+    "id": "seed-6",
+    "playerName": "KairoGrid",
+    "score": 412,
+    "mode": "rank-rush",
+    "difficulty": "Easy",
+    "category": "Sports",
+    "accuracy": 85,
+    "streak": 4,
+    "createdAt": "2026-11-24T20:15:53.743Z"
+  }
+]
